@@ -1,0 +1,31 @@
+.contact_from {
+  font-family: 'Roboto Mono', monospace;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.contact_from__text {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+contact_from__input {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.contact_from__Submit_btn {
+  margin-left: 10px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 15px;
+  font-weight: 200;
+  letter-spacing: 1px;
+  padding: 4px 16px 4px;
+  outline: 0;
+  border: 1px solid #c397f0;
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  background-color: #dcbaff;
+}

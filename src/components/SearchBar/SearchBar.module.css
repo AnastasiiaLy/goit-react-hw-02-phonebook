@@ -1,0 +1,12 @@
+.searchBar__container {
+  font-family: 'Roboto Mono', monospace;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.searchBar__text {
+  margin-left: 10px;
+}
+.searchBar__input {
+  margin-left: 10px;
+}
